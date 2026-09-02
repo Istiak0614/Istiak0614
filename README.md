@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-  Computer Science & Engineering Student | AI & ML Enthusiast
+  Computer Science & Engineering Student | AI & ML Enthusiast | Aspiring Software Engineer
 </h3>
 
 <p align="center">
