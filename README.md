@@ -71,23 +71,24 @@ I enjoy building practical projects, exploring new technologies, and learning ho
 
 <p align="center">
   <img
-    width="48%"
     src="https://github-readme-stats.vercel.app/api?username=Istiak0614&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-
-  <img
-    width="37%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Istiak0614&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Istiak's GitHub Stats"
   />
 </p>
 
----
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Istiak0614&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Istiak0614&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=Istiak0614&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
