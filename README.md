@@ -24,10 +24,10 @@ I enjoy building practical projects, exploring new technologies, and learning ho
 ## 🚀 What I'm Currently Up To
 
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 👁️ Working with **Computer Vision and YOLO-based Object Detection**
 - 🐍 Improving my **Python skills for AI/ML development**
-- 🌐 Building web applications with **JavaScript & TypeScript**
-- 🔍 Exploring **Deep Learning & Computer Vision**
-- 📚 Continuously learning and building practical projects
+- 🌐 Building applications with **JavaScript & TypeScript**
+- 🔍 Exploring **Deep Learning, IoT and Computer Vision**
 
 ---
 
