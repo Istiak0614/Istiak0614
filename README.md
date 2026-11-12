@@ -55,12 +55,16 @@ I enjoy building practical projects, exploring new technologies, and learning ho
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/md-istiak-hossain-ifti-3127722a6/">
+    <a href="https://www.linkedin.com/in/md-istiak-hossain-ifti/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="mailto:istiakhossainifti@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+    <a href="https://portfolio-orcin-seven-yum5zinsum.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4D8DFF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
 </p>
